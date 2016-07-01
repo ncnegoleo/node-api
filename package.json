@@ -1,14 +1,17 @@
 {
   "name": "node-api",
   "version": "1.0.0",
-  "description": "rest, api",
+  "description": "API RESTFull com Nodejs usando Express e Mongoose",
   "main": "app.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [
     "rest",
-    "api"
+    "api",
+    "web service",
+    "express",
+    "mongoose"
   ],
   "author": "leonardo",
   "license": "ISC",
@@ -17,5 +20,14 @@
     "express": "^4.14.0",
     "mongoose": "^4.5.2",
     "mongoose-auto-increment": "^5.0.1"
-  }
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ncnegoleo/node-api.git"
+  },
+  "bugs": {
+    "url": "https://github.com/ncnegoleo/node-api/issues"
+  },
+  "homepage": "https://github.com/ncnegoleo/node-api#readme"
 }
