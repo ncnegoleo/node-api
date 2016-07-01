@@ -1,0 +1,21 @@
+{
+  "name": "node-api",
+  "version": "1.0.0",
+  "description": "rest, api",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "rest",
+    "api"
+  ],
+  "author": "leonardo",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.15.2",
+    "express": "^4.14.0",
+    "mongoose": "^4.5.2",
+    "mongoose-auto-increment": "^5.0.1"
+  }
+}
